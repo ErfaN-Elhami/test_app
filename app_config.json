@@ -1,0 +1,12 @@
+{
+    "application": "SecureApp v2.1",
+    "environment": "production",
+    "security": {
+        "identity": "W3sidSI6ICJ1c2VyMSIsICJwIjogInBhc3N3b3JkMTIzIn0sIHsidSI6ICJhZG1pbiIsICJwIjogInNlY3VyZXBhc3MifV0=",
+        "version": "encrypted-1.2"
+    },
+    "metadata": {
+        "created": "2023-08-20",
+        "author": "System Admin"
+    }
+}
